@@ -1,5 +1,5 @@
 # Taylor Tucker
-![Photo](profile.jpeg)
+<img src="profile.jpeg" alt="Photo" width="100"/>
 
 ### About
 
