@@ -10,10 +10,10 @@ I am a third year computer science student at Washington and Lee with a focus on
 
 ## Projects
 
-[Artificial Neural Networks and Deep Learning Final Project](https://tuckert23.github.io/ANN-Final-Project)\
-[Computational Analysis of Big Data Final Project](https://tuckert23.github.io/Big-Data-Final-Project)\
-[Picasso](https://tuckert23.github.io/Picasso)\
-[Canonical Machine-Learning Methods Final Project](https://tuckert23.github.io/final_project)
+[AI, Crypto & Art: Generating NFT Style Images with Neural Networks](https://tuckert23.github.io/ANN-Final-Project)\
+[The Bachelorette: Does Twitter have what it takes to predict a winner?](https://tuckert23.github.io/Big-Data-Final-Project)\
+[Software Development: Picasso](https://tuckert23.github.io/Picasso)\
+[Predicting Tuition in Liberal Arts Universities](https://tuckert23.github.io/final_project)
 
 
 ### Resumé available upon request
