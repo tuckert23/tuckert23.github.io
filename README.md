@@ -5,6 +5,9 @@
 
 I am a third year computer science student at Washington and Lee with a focus on AI and ethical AI.
 
+### Contact
+[Email](mailto:tuckert23@mail.wlu.edu)
+
 ### Projects
 
 - [Artificial Neural Networks and Deep Learning Final Project](https://tuckert23.github.io/ANN-Final-Project)
