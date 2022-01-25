@@ -1,5 +1,5 @@
 # Taylor Tucker
-![Photo](profile.jpg)
+![Photo](Business Casual.jpg)
 
 ### About
 
