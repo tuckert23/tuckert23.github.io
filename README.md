@@ -11,4 +11,4 @@ I am a third year computer science student at Washington and Lee with a focus on
 - [Canonical Machine-Learning Methods Final Project](final_project)
 
 
-### [Resumé](google.com)
+### [Resumé](https://www.google.com)
