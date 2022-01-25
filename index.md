@@ -16,4 +16,4 @@ I am a third year computer science student at Washington and Lee with a focus on
 [Canonical Machine-Learning Methods Final Project](https://tuckert23.github.io/final_project)
 
 
-### [Resumé](https://www.google.com)
+### Resumé available upon request
