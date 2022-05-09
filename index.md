@@ -1,5 +1,6 @@
 
 <img src="profile.jpeg" alt="Photo" width="200"/>
+<link rel="icon" href="https://upload.wikimedia.org/wikipedia/en/a/a8/W%26L_Generals.png">
 
 ## About
 
