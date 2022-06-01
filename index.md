@@ -4,7 +4,7 @@
 
 ## About
 
-I am a third year computer science student at Washington and Lee with a focus on AI and ethical AI.
+I am a fourth year computer science student at Washington and Lee with a focus on AI and ethical AI.
 
 ## Contact
 [Email](mailto:tuckert23@mail.wlu.edu)
