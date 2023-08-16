@@ -4,10 +4,10 @@
 
 ## About
 
-I am a fourth year computer science student at Washington and Lee with a focus on AI and ethical AI.
+I am a first-year student at the University of Virginia School of Data Science pursuing a Master's degree in Data Science. I previously graduated from Washington and Lee University with a B.S. in Computer Science. My focus is AI and Ethical AI, as well as how AI can be used to improve communities.
 
 ## Contact
-[Email](mailto:tuckert23@mail.wlu.edu)
+[Email](mailto:rtt4fb@virginia.edu)
 
 ## Projects
 
