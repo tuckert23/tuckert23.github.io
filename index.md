@@ -17,4 +17,4 @@ I am a first-year student at the University of Virginia School of Data Science p
 [Predicting Tuition in Liberal Arts Universities](https://tuckert23.github.io/final_project)
 
 
-### Resumé available upon request
+### Resume available upon request
