@@ -4,7 +4,7 @@
 
 ## About
 
-I am a second-year student at the University of Virginia School of Data Science pursuing a Master's degree in Data Science. I previously graduated from Washington and Lee University with a B.S. in Computer Science. My focus is AI and Ethical AI, as well as how AI can be used to improve communities.
+I am a second-year graduate student at the University of Virginia School of Data Science pursuing a Master's degree in Data Science. I previously graduated from Washington and Lee University with a B.S. in Computer Science. My focus is AI and Ethical AI, as well as how AI can be used to improve communities.
 
 ## Contact
 [Email](mailto:rtt4fb@virginia.edu)
