@@ -18,8 +18,8 @@ I am a second-year graduate student at the University of Virginia School of Data
 [Predicting Tuition in Liberal Arts Universities](https://tuckert23.github.io/final_project)
 
 ### Graduate
-[LlamaCode-Codeforces-v1](https://huggingface.co/rtt4fb/LlamaCode-Codeforces-v1)
-[An Autoregressive Approach to Play-Vector Prediction in the NFL](https://github.com/tuckert23/ds6050-final-project/tree/main)
+[LlamaCode-Codeforces-v1](https://huggingface.co/rtt4fb/LlamaCode-Codeforces-v1)\
+[An Autoregressive Approach to Play-Vector Prediction in the NFL](https://github.com/tuckert23/ds6050-final-project/tree/main)\
 [Perspectives on the Digital Age](https://github.com/tuckert23/ds5001-final-project)
 
 ### Resume available upon request
