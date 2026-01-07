@@ -19,7 +19,6 @@ I am a data and AI enthustiast with a Master's degree in Data Science from the U
 
 ### Graduate
 [LlamaCode-Codeforces-v1](https://huggingface.co/rtt4fb/LlamaCode-Codeforces-v1)\
-[An Autoregressive Approach to Play-Vector Prediction in the NFL](https://github.com/tuckert23/ds6050-final-project/tree/main)\
 [Perspectives on the Digital Age](https://github.com/tuckert23/ds5001-final-project)\
 [Preventing Wrong-Side Treatment Errors in Radiosurgery for Trigeminal Neuralgia Using Machine-Learning Prediction](https://datascience.virginia.edu/projects/preventing-wrong-side-treatment-errors-radiosurgery-trigeminal-neuralgia-using-machine)
 
